@@ -13,10 +13,9 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
   - autologin-user=your_user_name
   - autologin-session=deepin
  
-Thanks to the guys at arcolinux for helping with my queries.
-Hope you have fun with this distro.
 ![1](https://user-images.githubusercontent.com/50142453/64343581-68528680-d00a-11e9-92b1-daf40d4fc138.png)
 
-![alt text](https://github.com/a-mere-peasant/arcolinux-deepin-minimal-/tree/master/Screenshots/1.png)
-![alt text](https://github.com/a-mere-peasant/arcolinux-deepin-minimal-/tree/master/Screenshots/2.png)
+![2](https://user-images.githubusercontent.com/50142453/64343643-88824580-d00a-11e9-8f35-16e4b2bb0e20.png)
 
+Thanks to the guys at arcolinux for helping with my queries.
+Hope you have fun with this distro.
