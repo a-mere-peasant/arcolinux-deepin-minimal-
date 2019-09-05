@@ -1,8 +1,9 @@
-# arcolinux-deepin-minimal
+# arcolinux-deepin-minimal-beta
 <p>This is an iso for arcolinux with the deepin de. Created using the scripts for arcolinx.
 enjoy this de with a small selection of pre installed apps to keep bloat to a minimum, you can add the aps you need after you install the system.</p>
+<b>This is a beta version,do test in virtualbox before installing<b>
 <p><b>XFCE is used as a delivery enviornment, so deepin will not be available for testing without install</b></p>
-<p>Install on virtualbox or on bare metal , can dual boot with other OS.</p>
+<p>Install on virtualbox or dual boot with other OS.</p>
 
 <b>For turning on autologin</b>
  To enable autologin, edit the /etc/lightdm/lightdm.conf file :
