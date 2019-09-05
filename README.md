@@ -7,7 +7,7 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
 
 <p>Install on virtualbox or dual boot with other OS.</p>
 
-<b>For turning on autologin</b>
+<b> For turning on autologin </b>
  To enable autologin, edit the /etc/lightdm/lightdm.conf file :
   - user-session=deepin
   - autologin-user=your_user_name
