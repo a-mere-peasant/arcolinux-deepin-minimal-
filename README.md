@@ -1,7 +1,7 @@
 # arcolinux-deepin-minimal-beta
 <p>This is an iso for arcolinux with the deepin de. Created using the scripts for arcolinx.
 enjoy this de with a small selection of pre installed apps to keep bloat to a minimum, you can add the software you need after you install the system.</p>
-##This is a beta version,do test in virtualbox before installing
+## This is a beta version,do test in virtualbox before installing
  
 <p><b>XFCE is used as a delivery enviornment, so deepin will not be available for testing without install</b></p>
 
