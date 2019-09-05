@@ -1,10 +1,8 @@
 # arcolinux-deepin-minimal-beta
 <p>This is an iso for arcolinux with the deepin de. Created using the scripts for arcolinx.
 enjoy this de with a small selection of pre installed apps to keep bloat to a minimum, you can add the software you need after you install the system.</p>
-Download the iso : [Deepin-minimal-iso](
 
-https://sourceforge.net/projects/arcolinux-deepin-minimal/files/file/download
-
+Download the iso : [Deepin-minimal-iso](https://sourceforge.net/projects/arcolinux-deepin-minimal/files/file/download
 )
 MD5:2280e4be008c2085006a5d8a1c7afa6c
 
