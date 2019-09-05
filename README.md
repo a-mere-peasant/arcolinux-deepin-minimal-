@@ -15,3 +15,6 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
  
 Thanks to the guys at arcolinux for helping with my queries.
 Hope you have fun with this distro.
+![alt text](https://github.com/a-mere-peasant/arcolinux-deepin-minimal-/tree/master/Screenshots/1.png)
+![alt text](https://github.com/a-mere-peasant/arcolinux-deepin-minimal-/tree/master/Screenshots/2.png)
+
