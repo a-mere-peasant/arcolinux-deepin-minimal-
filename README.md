@@ -6,10 +6,10 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
 
 <b>For turning on autologin</b>
 <p>
-  To enable autologin, edit the /etc/lightdm/lightdm.conf file :
-  user-session=deepin
-  autologin-user=your_user_name
-  autologin-session=deepin
+ To enable autologin, edit the /etc/lightdm/lightdm.conf file :
+  +user-session=deepin
+  +autologin-user=your_user_name
+  +autologin-session=deepin
 </p>
 Thanks to the guys at arcolinux for helping with my queries.
 Hope you have fun with this distro.
