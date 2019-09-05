@@ -4,6 +4,7 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
 
 Download the iso : [Deepin-minimal-iso](https://sourceforge.net/projects/arcolinux-deepin-minimal/files/file/download
 )
+
 MD5:2280e4be008c2085006a5d8a1c7afa6c
 
 SHA1:30f529839e80d3e9656c1b7af5c1061e5c3042f7
