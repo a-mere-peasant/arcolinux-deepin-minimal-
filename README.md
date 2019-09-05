@@ -9,9 +9,6 @@ enjoy this de with a small selection of pre installed apps to keep bloat to a mi
   - user-session=deepin
   - autologin-user=your_user_name
   - autologin-session=deepin
- - Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+ 
 Thanks to the guys at arcolinux for helping with my queries.
 Hope you have fun with this distro.
